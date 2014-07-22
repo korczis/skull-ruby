@@ -1,2 +1,3 @@
-skull-ruby
-==========
+# skull-ruby
+
+Ruby Skull
